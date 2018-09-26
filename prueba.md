@@ -1,11 +1,7 @@
-# Sintaxis ||
+# Eclipse
 
-|Formato  |Sintaxis  |
-|----------|----------|
-|Código en línea|`Esto es código de línea`|
-|Bloques de código|~~~ Ejemplo de bloque ~~~|
-|Imágenes|![Texto alternativo](url/imagen.png)|
-|Vínculos|[Texto del vínculo](url)|
-|Imágenes con vínculos|[![Texto alternativo](imagen)](url)|
-|Línea horizontal|- - - (Salto de línea antes y después)|
-|Salto de línea|&nbsp (Dos saltos de línea antes)|
+Eclipse es un entorno integrado de desarrollo (IDE).
+* Se diseñó inicialmente como IDE para Java, sin embargo ahora soporta otros lenguajes como C++.
+* Ayuda a escribir código más rápido y libre de algunos errores sintácticos, y ayuda a mantener un estilo de programación homogéneo.
+* Facilita la depuración de código.
+* Hay una gran documentación.
