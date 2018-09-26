@@ -1,12 +1,7 @@
-# Comandos GitHub ||
-Ver *branches* remotos:
+# Dar seguimiento a *branches* remotos
+* LOCAL --> REMOTO
+1. Cambios en el repositorio local.
+2. Commit de los cambios.
+3. Añadir cambios a repositorio remoto:
 
-`git branch -r`
-
-Ver todos los *branches*:
-
-`git branch -a`
-
-Clonar un repositorio remoto:
-
-`git clone url`
+`git push`
