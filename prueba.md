@@ -1,2 +1,20 @@
-# GitHub no es Git
-![](https://solanch96.files.wordpress.com/2017/06/github.gif?w=500&h=236&crop=1)
+# Comandos GitHub |
+Añadir repositorio remoto
+
+`git remote add origin url`
+
+Ver repositorios remotos:
+
+`git remote -v`
+
+Eliminar repositorio remoto:
+
+`git remote rm origin`
+
+Añadir cambios del repositorio local al remoto:
+
+`git push -u origin master`
+
+Añadir cambios del repositorio remoto al local:
+
+`git pull`
