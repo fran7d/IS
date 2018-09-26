@@ -1,3 +1,5 @@
+# Sintaxis |
+
 |Formato  |Sintaxis  |
 |----------|----------|
 |Negrita|**Texto en negrita**|
