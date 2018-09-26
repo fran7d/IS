@@ -1,10 +1,17 @@
-* REMOTO --> LOCAL
-1. Sincronización y unión:
+# Operaciones con *branches* remotos
+* Creación
 
-`git fetch origin`
+1. Crear *branch* local.
+2. Hacer cambios en dicho *branch*.
+3. Hacer *commit*.
+4. Copiar el *branch* al repositorio remoto:
 
-`git merge origin/master`
+`git push -u origin branch_remoto`
 
-2. En un solo paso:
+* Copia
 
-`git pull`
+`git checkout -b local remoto`
+
+* Elimninación
+
+`git push origin --delete branch_remoto`
